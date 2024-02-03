@@ -1,0 +1,5 @@
+head
+cerebral_falx
+cistema_magna
+cerebellar_hemispheres
+thalamus
